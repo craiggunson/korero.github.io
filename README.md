@@ -1,4 +1,4 @@
-# nano
+# korero
 
 Local chat app powered by Chrome's on-device Gemini Nano APIs.
 
@@ -9,7 +9,7 @@ chrome://flags/#optimization-guide-on-device-model → Set to Enabled BypassPerf
 chrome://components → After loading the page, wait for Optimization Guide On Device Model to download.  During this time the page should indicate Downloading, and eventually Ready. 
 ```
 
-Live demo: https:/korero.craiggunson.com
+Live [demo](https://korero.craiggunson.com/)
 
 ## What it does
 
